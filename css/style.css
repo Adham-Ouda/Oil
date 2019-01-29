@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+.form-login{
+	
+	width:300px;
+	margin:200px auto;
+}
+
+.form-login input{
+	margin-bottom: 10px;
+}
+.active{
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+.href{
+	font-size:20px;
+	color: inherit;
+}
